@@ -1,0 +1,30 @@
+.body{ background:whitesmoke !important ;
+    padding: 0px !important;}
+.row{background:whitesmoke !important;}
+.row{padding: 60px !important;}
+
+.img-fluid {
+    max-width: 100% !important;
+    height: auto !important;
+    
+   
+    padding:10px !important;
+  }
+.intro{font-size: 20px !important;
+padding: 5px !important;}
+
+
+.vis-1{font-size: 30px !important}
+
+#image_size{ max-width: 100% !important;
+    height: auto !important;
+    padding:10px !important;}
+
+.row.no-gutters {
+        margin-right: 0;
+        margin-left: 0; 
+          padding-right: 0;
+          padding-left: 0;
+        }
+      
+      
